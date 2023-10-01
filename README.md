@@ -7,7 +7,13 @@
 
 - 🔭 I’m currently working on [video_player](https://www.npmjs.com/package/@hosseintaromi/video_player)
 
-- 🌱 I’m currently learning **ThreeJs, Next.js, NPM , HLS**
+- 🌱 I’m currently learning **ThreeJs, Next.js, NPM**
+
+- 👨‍💻 All of my projects are available at [hosseintaromi.ir](hosseintaromi.ir)
+
+- 💬 Ask me about **React, Vue.js, HLS**
+
+- 📫 How to reach me **https://t.me/hosseintaromi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
