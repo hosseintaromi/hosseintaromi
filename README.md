@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm hossein taromi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <div align="center">
-	<a href="https://github.com/mohammadreza99/mohammadreza99">
+	<a href="https://github.com/hosseintaromi/hosseintaromi">
  		<img src="https://github.com/hosseintaromi/hosseintaromi/blob/main/files/grid-snake.svg" alt="snake" />
 	</a>
 </div>
