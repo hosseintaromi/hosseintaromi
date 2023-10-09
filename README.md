@@ -18,7 +18,7 @@
 </picture>
   <img
     alt="github contribution grid snake animation"
-    src="https://github.com/hosseintaromi/blob/output/github-contribution-grid-snake2.svg"
+    src="https://github.com/hosseintaromi/hosseintaromi/blob/output/github-contribution-grid-snake2.svg"
   />
   
 ###
