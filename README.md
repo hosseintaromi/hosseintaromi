@@ -7,7 +7,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseintaromi&label=Profile%20views&color=0e75b6&style=flat" alt="hosseintaromi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&row=2&column=3"><img src="https://github-profile-trophy.vercel.app/?username=hosseintaromi&row=2&column=3" alt="hosseintaromi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hosseintaromi&row=2&column=3" alt="hosseintaromi" /></a> </p>
 
 - 🔭 I’m currently working on [video_player](https://www.npmjs.com/package/@hosseintaromi/video_player)
 
