@@ -5,7 +5,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hosseintaromi/hosseintaromi/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hosseintaromi/hosseintaromi/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
@@ -19,11 +19,6 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 --->
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hosseintaromi/hosseintaromi/output/github-contribution-grid-snake.svg"  />
-</div>
 
 ###
 
