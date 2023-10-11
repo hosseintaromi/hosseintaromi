@@ -91,13 +91,4 @@
 </div>
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/hosseintaromi/hosseintaromi/blob/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://github.com/hosseintaromi/hosseintaromi/blob/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hosseintaromi/hosseintaromi/output/github-contribution-grid-snake.svg" />
