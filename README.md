@@ -2,14 +2,7 @@
   
   <img height="150"   src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hosseintaromi/hosseintaromi/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
-</div>
-  
+
 
 <!---
 <div align="center">
@@ -58,6 +51,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
 
+  <br/>
+  <br/>
+<h3 align="left">💪🏻 My Achieved  :</h3>
+
+
+
+<div align="center">
+  <br/>
+  <br/>
+  <img alt="hosseintaromi" src="https://github-profile-trophy.vercel.app/?username=hosseintaromi" />
+</div>
+  
+  <br/>
+  <br/>
+<h3 align="left">🐍 My Contributions  :</h3>
+
+  <br/>
+  <br/>
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hosseintaromi/hosseintaromi/output/github-contribution-grid-snake-dark.svg" />
+</div>
+  
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
